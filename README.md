@@ -1,6 +1,6 @@
 # cv
 Company CV Website
-This is the my first website i build in my web devlopement career.
+My first website which I built through Angela's web development course
 The Company CV Website is a static web application created using pure HTML. It serves as an online portfolio and provides information about the company's background, services, team members, and contact details.
 
 Features
